@@ -1,0 +1,8 @@
+COMANDOS GIT
+
+(git status -s) -> Nos muestra la carpeta con archivos y directorio y el estado.
+(git add "nombre archivo")-> Git comienza a hacer seguimiento del archivo especificado.Lo manda al area de ensayo.
+(git add .) -> Git hace seguimiento del todos los archivos del proyecto.
+(git commit -m "Nombre del commit")-> Realiza foto instantanea del estado del/ de los archivos a los que se les hace seguimiento.
+(git log --oneline)-> Muestra todos los commit que he realizado.
+(git reset --hard /codigo del comit al que queremos regresar/)->Elimina todos los commit realizados y cambios retornando al commit especificado. 
