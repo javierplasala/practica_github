@@ -6,3 +6,4 @@ COMANDOS GIT
 (git commit -m "Nombre del commit")-> Realiza foto instantanea del estado del/ de los archivos a los que se les hace seguimiento.
 (git log --oneline)-> Muestra todos los commit que he realizado.
 (git reset --hard /codigo del comit al que queremos regresar/)->Elimina todos los commit realizados y cambios retornando al commit especificado. 
+(git remote add origin /URL del proyecto remoto/)-> vincula git local con el proyecto remoto.
