@@ -10,7 +10,10 @@ COMANDOS GIT
 (git remote add origin /URL del proyecto remoto/)-> vincula git local con el proyecto remoto.
 (git commit --amend)->Abre el editor Vim de Git para modificar el nombre del commit /comando :i Enter/corregir Esc/ para salir del editor :wq/
 PRUEBA LINEA AGREGADA DESDE GITHUB PARA HACER PULL.
-
+HAGO CAMBIOS EN Rama
+HAGO CAMBIOS EN Rama
+HAGO CAMBIOS EN Rama
+HAGO CAMBIOS EN Rama
 
 
 
